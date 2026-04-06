@@ -1,4 +1,4 @@
-# HCO-AI: Intelligent Network Query Classifier
+# Intelligent Network Query Classifier
 ## Project Implementation Plan
 
 **Version:** 1.0  
